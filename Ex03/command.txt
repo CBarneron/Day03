@@ -1,0 +1,1 @@
+00 08 * * 1-5 curl wttr.in/batman > /Users/admin/Documents/GitHub/Day03/Ex03/meteo/meteoOfTheDay.txt
